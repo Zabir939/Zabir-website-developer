@@ -1,0 +1,29 @@
+body{
+    font-family: 'Rowdies', cursive;
+}
+h1{
+    font-size: 50px;
+}
+ 
+@import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@300&display=swap');
+.nme-higlight{
+    color: coral;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+
+}
+.link-butten{
+    text-decoration: none;
+    background-color: coral;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+}
+ 
